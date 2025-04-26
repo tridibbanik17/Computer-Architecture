@@ -45,8 +45,6 @@ This repository contains a variety of assembly language programs for ARM64 and L
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/user-attachments/assets/721b7fb3-e480-4809-9023-fd48b82b1f8c)
-
 The repository is structured into three main directories:
 
 - **ARM64:** Contains assembly programs written for the ARM64 architecture. These programs utilize system calls and external functions like `printf` and `atoi`.
